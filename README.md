@@ -1,7 +1,9 @@
 Yamabot
 =======
 
-Yamabot is a meta-project for my Ph.D. work at the [Intelligent Robot Laboratory](http://www.roboken.iit.tsukuba.ac.jp/en/) at the University of Tsukuba.
+Yamabot is a meta-project for my Ph.D. work at the [Intelligent Robot Laboratory](http://www.roboken.iit.tsukuba.ac.jp/en/) at the University of Tsukuba. It is a complete visual teach-and-repeat robot navigation stack for ROS, covering the entire sense-deliberate-act loop; modules are written mostly in C++ for performance, with some Python scripts used for prototyping and data analysis. Successful experiments were performed both indoors and outdoors, under varying weather conditions and mildly populated settings.
+
+See [this article](http://www.roboken.esys.tsukuba.ac.jp/~ohya/pdf/FIERCES2016-HEL.pdf) for an overview of the theory behind the project, and [my Ph.D. thesis](https://drive.google.com/file/d/0ByFXegaPGv-wa1dnMEVmRVhSQVU/view?usp=sharing) for an extended discussion.
 
 Build Instructions
 ------------------
